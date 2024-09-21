@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ColorSetter</string>
+    <string name="red_0">Red : 0</string>
+    <string name="colorpicker">ColorPicker</string>
+    <string name="green_0">Green : 0</string>
+    <string name="blue_0">Blue : 0</string>
+    <string name="_0_0_0">(0,0,0)</string>
+</resources>
